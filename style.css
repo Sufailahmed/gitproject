@@ -3,7 +3,12 @@ h1{
 }
 h3{
     color: yellow;
+    font-size: 45px;
 }
 li{
     color: blue;
+}
+p{
+    font-size: 25px;
+    color: cadetblue;
 }
